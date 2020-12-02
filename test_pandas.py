@@ -7,3 +7,4 @@ def mult(data):
 mult(df)
 print(df)
 
+print('yes')
